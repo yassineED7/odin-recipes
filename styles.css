@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: 2px solid red;  */
+    font-family: sans-serif;
+
+    text-align: center;
+
+    color: #EEEEEE;
+}
+
+h1 {
+    font-size: 64px;
+    margin: 20PX;
+    color: #1F6F5F;
+}
+
+ul {
+    display: grid;
+    place-items: center;
+
+    gap: 10px;
+    padding: 10px;
+    border: 2px solid #1F6F5F;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+
+    list-style: none;
+}
+
+a {
+    color: #1F6F5F;
+    text-decoration: none;
+
+}
