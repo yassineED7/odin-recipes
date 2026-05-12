@@ -1,32 +1,42 @@
-
 # Odin Recipes
+
 ## Description
-This project is part of *The Odin Project - Foundations Course*.
-The goal is to build a basic recipe website using only HTML.
-The website contains a main index page with links to different recipe pages.
+This project is part of *The Odin Project - Foundations Course*. 
+The goal is to build a basic recipe website using **HTML and CSS**. 
+The website contains a main index page with links to different recipe pages, all styled for better readability and structure.
+
 ---
+
 ## Skills Demonstrated
-* Basic HTML structure
-* Working with text (headings, paragraphs)
-* Creating lists (ordered and unordered)
-* Adding links between pages
-* Embedding images
-* Writing clear Git commit messages
+* **Basic HTML structure:** Headings, paragraphs, and lists.
+* **Navigation:** Linking between multiple pages and directory structures.
+* **CSS Foundations:** Mastering the **Box Model** (padding, border, margin).
+* **Layout Design:** Centering elements and using **CSS Grid** for basic positioning.
+* **Version Control:** Writing clear commit messages and handling **Git Merge Conflicts**.
+
 ---
+
 ## Project Structure
-* `index.html` → main page with links to recipes
-* `recipes/` → folder containing individual recipe pages
-* `images/` → folder for images used in the website
+* `index.html` → Main page with links to recipes.
+* `recipes/` → Folder containing individual recipe pages (Omelette, Pancakes, etc.).
+* `images/` → Folder for images used in the website.
+* `styles.css` → External stylesheet for global site design.
+
 ---
+
 ## What I Learned
-* How to structure a simple website using HTML
-* How to organize files and folders
-* The importance of clean and readable code
+* How to use the **Box Model** to create predictable and clean layouts.
+* The importance of a **CSS Reset** (box-sizing: border-box) to simplify layout calculations.
+* How to troubleshoot and fix Git errors when local and remote branches diverge.
+
 ---
+
 ## Future Improvements
-* Add CSS to style the website
-* Improve layout and design
-* Make the website responsive
+* Make the website fully **Responsive** for mobile devices.
+* Add more complex CSS layouts using **Flexbox**.
+* Implement hover effects and transitions for a better user experience.
+
 ---
+
 ## Author
-* Yassine-ED
+* **Yassine-ED**
