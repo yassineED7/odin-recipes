@@ -4,9 +4,7 @@
     box-sizing: border-box;
     /* outline: 2px solid red;  */
     font-family: sans-serif;
-
     text-align: center;
-
     color: #EEEEEE;
 }
 
@@ -16,7 +14,7 @@ h1 {
     color: #1F6F5F;
 }
 
-ul {
+.cart {
     display: grid;
     place-items: center;
 
@@ -31,7 +29,7 @@ ul {
     list-style: none;
 }
 
-a {
+.link-recipes {
     color: #1F6F5F;
     text-decoration: none;
 
