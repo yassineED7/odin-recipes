@@ -8,6 +8,8 @@
     color: #EEEEEE;
 }
 
+/* style index.html */
+
 h1 {
     font-size: 64px;
     margin: 20PX;
@@ -33,4 +35,25 @@ h1 {
     color: #1F6F5F;
     text-decoration: none;
 
+}
+
+/* style recipe pages*/
+
+div {
+
+    /* display: grip;
+    place-items: center; */
+
+    padding: 10px;
+    border: 2px solid #1F6F5F;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+
+
+}
+
+li {
+    list-style: none;
 }
