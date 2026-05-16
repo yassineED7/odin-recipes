@@ -36,6 +36,13 @@ h1 {
     text-decoration: none;
 
 }
+.link-recipes:hover {
+    color: #EEEEEE;
+    background-color: #1F6F5F;
+    padding: 0 32px;
+    border: 1px solid #1F6F5F;
+    border-radius: 6px;
+}
 
 /* style recipe pages*/
 
