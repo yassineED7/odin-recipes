@@ -44,7 +44,6 @@ div {
     /* display: grip;
     place-items: center; */
 
-
     padding: 10px;
     border: 2px solid #1F6F5F;
     border-radius: 16px;
@@ -56,6 +55,7 @@ div {
 
 .title {
     color: #1F6F5F;
+    margin-top: 8px;
 }
 
 .str {
@@ -77,4 +77,19 @@ li {
 .list-step::marker {
     color: #1F6F5F;
     font-weight: bold;
+}
+
+.home-b {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 0 16px;
+    color: #6FCF97;
+    background-color: #1F6F5F;
+    border: 1px solid #1F6F5F;
+    border-radius: 3px;
+    text-decoration: none;
+
+}
+.home-b:hover {
+        background-color: #0a3b30;
 }
